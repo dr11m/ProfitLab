@@ -114,7 +114,7 @@ This project and parts of it have been part of my projects for a long time, here
 
 **Authors**
 
-* [Your Name](https://github.com/dr11m)
+* [dr11m](https://github.com/dr11m)
 
 **Copyright**
 
