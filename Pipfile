@@ -1,0 +1,31 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+peewee = "*"
+pydantic = "*"
+loguru = "*"
+mysqlclient = "*"
+sqlalchemy = "*"
+pandas = "==2.2.2"
+catboost = "==1.2.7"
+numpy = "==1.26.4"
+tensorflow = "==2.17.0"
+keras = "==3.5.0"
+scikit-learn = "==1.5.1"
+matplotlib = "==3.9.2"
+typing-extensions = "==4.12.2"
+seaborn = "*"
+scipy = "*"
+statsmodels = "*"
+ipywidgets = "*"
+jinja2 = "*"
+streamlit = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.10"

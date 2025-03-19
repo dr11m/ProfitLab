@@ -1,0 +1,8 @@
+catboost==1.2.7
+numpy==1.26.4
+pandas==2.2.2
+tensorflow==2.17.0
+keras==3.5.0
+scikit-learn==1.5.1
+matplotlib==3.9.2
+typing-extensions==4.12.2
